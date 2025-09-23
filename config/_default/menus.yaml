@@ -1,0 +1,54 @@
+leftnav:
+- identifier: a1e5e925-3b1e-ded1-1ca6-bab4233f8491
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 7f9f52e3-47df-ea39-fbdb-3e5cae0c0d88
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: fd372440-c38a-d596-0cdf-1e9eb920705a
+  name: Clicker Questions
+  pageRef: /pages/instructor-insights/clicker-questions
+  parent: 7f9f52e3-47df-ea39-fbdb-3e5cae0c0d88
+  weight: 30
+- identifier: 79fb9e72-2b04-ec78-d986-abe3b39de4b3
+  name: Web-based Problem Sets
+  pageRef: /pages/instructor-insights/web-based-problem-sets
+  parent: 7f9f52e3-47df-ea39-fbdb-3e5cae0c0d88
+  weight: 40
+- identifier: bcbec978-c95d-1b56-35cb-8b8e0b9be8d5
+  name: Using a Tablet During Lectures
+  pageRef: /pages/instructor-insights/using-a-tablet-in-the-same-way-as-a-blackboard
+  parent: 7f9f52e3-47df-ea39-fbdb-3e5cae0c0d88
+  weight: 50
+- identifier: dba6bd50-ff19-6b59-7ec2-4da9237716f9
+  name: Assessing Students' Writing
+  pageRef: /pages/instructor-insights/assessing-students-writing
+  parent: 7f9f52e3-47df-ea39-fbdb-3e5cae0c0d88
+  weight: 60
+- identifier: 9b06e126-ec67-17f3-d145-63b868a71063
+  name: Teaching Graduate Students
+  pageRef: /pages/instructor-insights/teaching-graduate-students
+  parent: 7f9f52e3-47df-ea39-fbdb-3e5cae0c0d88
+  weight: 70
+- identifier: 47e6db51-b51d-d28d-d2af-3a65c87e95ca
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: e456b960-87fd-05ca-13ae-282d7dabf31b
+  name: Video Lectures
+  pageRef: /video_galleries/video-lectures
+  weight: 90
+- identifier: 709789bc-2cca-6b96-898e-bb8ff3fe3216
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 100
+- identifier: ddf42a25-30e0-318e-06d0-b613ea709fa4
+  name: Exams
+  pageRef: /pages/exams
+  weight: 110
+- identifier: 1a2aed92-9873-0321-e43c-f50839eae898
+  name: Projects
+  pageRef: /pages/projects
+  weight: 120

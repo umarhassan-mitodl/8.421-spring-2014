@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ]
+  ],
+  "legacy_uid": "2848297d-eb5b-7dd5-367b-93b4c1720743",
+  "instructors": {
+    "content": [
+      "50a3a80b-5bf1-d69b-babb-f8a7546732b7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c0390570-64a6-daa0-fea6-d33bb4e420eb",
+    "website": "8-421-atomic-and-optical-physics-i-spring-2014"
+  },
+  "course_title": "Atomic and Optical Physics I",
+  "course_description": "This is the first of a two-semester subject sequence that provides the foundations for contemporary research in selected areas of atomic and optical physics. Topics covered include the interaction of radiation with atoms: resonance; absorption, stimulated and spontaneous emission; methods of resonance, dressed atom formalism, masers and lasers, cavity quantum electrodynamics; structure of simple atoms, behavior in very strong fields; fundamental tests: time reversal, parity violations, Bell's inequalities; and experimental methods.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.421",
+  "course_image_thumbnail": {
+    "content": "3283a492-098d-8119-6861-de9ee8f8cad9",
+    "website": "8-421-atomic-and-optical-physics-i-spring-2014"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets",
+    "Exams",
+    "Instructor Insights"
+  ],
+  "site_uid": "f66c7f4c-89af-4831-b4d0-b1626ea5d223",
+  "site_short_id": "8.421-spring-2014",
+  "site_url_path": "courses/8-421-atomic-and-optical-physics-i-spring-2014",
+  "title": "Course Metadata"
+}
