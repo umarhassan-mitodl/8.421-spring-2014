@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides information on course meeting times, prerequisites,
   main topics, requirements, grading, and the schedule of course topics and assignment
   due dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -39,7 +41,7 @@ Main Topics
 Requirements
 ------------
 
-There will be ten problem sets. Assignments will usually be due one week after they have been handed out. There will be no quiz or final exam, but a term paper at the end of the course. This will be a paper in the style of a publication in {{% resource_link "45a341e3-a02d-4fc0-b4c6-abbd44f4f84d" "Physical Review Letters" %}} on a topic of mutual interest. The term paper and the homework have equal weight for the total grade. The term paper will be due on the day of the last class.
+There will be ten problem sets. Assignments will usually be due one week after they have been handed out. There will be no quiz or final exam, but a term paper at the end of the course. This will be a paper in the style of a publication in [Physical Review Letters](http://journals.aps.org/prl/) on a topic of mutual interest. The term paper and the homework have equal weight for the total grade. The term paper will be due on the day of the last class.
 
 Grading
 -------

@@ -23,6 +23,7 @@
     "website": "8-421-atomic-and-optical-physics-i-spring-2014"
   },
   "course_title": "Atomic and Optical Physics I",
+  "hide_download": true,
   "course_description": "This is the first of a two-semester subject sequence that provides the foundations for contemporary research in selected areas of atomic and optical physics. Topics covered include the interaction of radiation with atoms: resonance; absorption, stimulated and spontaneous emission; methods of resonance, dressed atom formalism, masers and lasers, cavity quantum electrodynamics; structure of simple atoms, behavior in very strong fields; fundamental tests: time reversal, parity violations, Bell's inequalities; and experimental methods.\n",
   "department_numbers": [
     "8"
@@ -33,6 +34,7 @@
     "content": "3283a492-098d-8119-6861-de9ee8f8cad9",
     "website": "8-421-atomic-and-optical-physics-i-spring-2014"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
