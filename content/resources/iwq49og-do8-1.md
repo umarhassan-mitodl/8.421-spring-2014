@@ -4,8 +4,6 @@ description: ''
 file: /courses/8-421-atomic-and-optical-physics-i-spring-2014/d77923db1302e86d8cbca8a2967be035_iwQ49oG-DO8.pdf
 file_size: 91651
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

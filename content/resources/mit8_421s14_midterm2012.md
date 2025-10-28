@@ -5,8 +5,6 @@ description: This file contains the information regarding atomic and optical phy
 file: /courses/8-421-atomic-and-optical-physics-i-spring-2014/a4879bda12822df08c67c6163d18183e_MIT8_421S14_midterm2012.pdf
 file_size: 56077
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

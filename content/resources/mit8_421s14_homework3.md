@@ -5,8 +5,6 @@ description: This resource contains the information regarding Atomic and Optical
 file: /courses/8-421-atomic-and-optical-physics-i-spring-2014/b12c6ad2b8ee1f6ad14f3e05e04da500_MIT8_421S14_homeWork3.pdf
 file_size: 551258
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
